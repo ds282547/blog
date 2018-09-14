@@ -1,10 +1,10 @@
-# Permalinks
+﻿# Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 
 # Setup
-title:               '召力J_____'
+title:               '召力J____'
 tagline:             '我要怎麼過生活，不關你的事　－派大星'
 description:         '悲歡離合器'
 url:                 http://lanyon.getpoole.com
