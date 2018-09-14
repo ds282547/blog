@@ -1,0 +1,11 @@
+repo_owner: ds282547
+repo_name: blog
+disabled: false
+use_show_action: false
+label_name: Post Comments
+label_color: 666666
+github_application:
+  client_id: f242e29df2b3c87c1bdc
+  code_authenticator: 7423c06d71cc3edef8e267d2e27fb1ba70a7be5b
+  callback_url: https://commiter282547.herokuapp.com/authenticate/
+enable_diagnostics: false
